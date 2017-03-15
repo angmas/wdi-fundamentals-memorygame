@@ -7,13 +7,15 @@ h1,a,h2 {
 	font-family: Raleway;
 	text-transform: uppercase;
 	letter-spacing: 1PX;
-
-
 }
 
 h1	{
-	font-size: 45PX
-	color:	#0D2C40;
+	font-size: 45PX;
+
+	/*deliverable has different color than assignemnt steps.
+	Deliverable color changes between 4.9 and 5.7 */
+	/*color:	#0D2C40; */
+	color: white;
 	font-weight: 400;
 	margin: 0;
 }
@@ -21,7 +23,10 @@ h1	{
 a {
 	font-size: 18PX;	
 	text-decoration: none;
-	color: #F15B31;
+	/*deliverable has different color than assignemnt steps.
+	Deliverable color changes between 4.9 and 5.7 */
+	/* color: #F15B31; */
+	color: white;
 	font-weight: 600;
 	margin: 0 20PX;
 	border-bottom: 2px solid transparent;
@@ -33,7 +38,9 @@ a:hover {
 
 h2 {
 	font-size: 20PX;
-	color: #0D2C40;
+	/*deliverable has different color than assignemnt steps.
+	Deliverable color changes between 4.9 and 5.7 */
+	/* color: #0D2C40; */
 	font-weight: 600;
 }
 
